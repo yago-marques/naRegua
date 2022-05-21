@@ -11,7 +11,7 @@ import SwiftUI
 struct onReguaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            InitialForm()
         }
     }
 }

@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import onRegua
+@testable import naRegua
 
 class onReguaTests: XCTestCase {
 

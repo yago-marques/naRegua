@@ -7,7 +7,7 @@
 
 import XCTest
 
-class onReguaUITestsLaunchTests: XCTestCase {
+class naReguaUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
