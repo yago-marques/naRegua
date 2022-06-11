@@ -41,7 +41,7 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/yago-marques">
         <img src="https://avatars.githubusercontent.com/u/84297648?v=4" width="100px;" alt="Foto de Yago Marques no GitHub"/><br>
         <sub>
           <b>Yago Marques</b>
@@ -52,3 +52,5 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
     </td>
   </tr>
 </table>
+
+README inspired by [JoanWilson](https://github.com/JoanWilson/Setterfolder)
